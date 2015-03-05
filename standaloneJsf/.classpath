@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files/wildfly-8.2.0.Final/modules/system/layers/base/javax/el/api/main/jboss-el-api_3.0_spec-1.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/wildfly-8.2.0.Final/modules/system/layers/base/javax/faces/api/main/jsf-api-2.2.8-02.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/wildfly-8.2.0.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_3.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/wildfly-8.2.0.Final/modules/system/layers/base/com/sun/jsf-impl/main/jsf-impl-2.2.8-02.jar" sourcepath="D:/programacion/java_utils/jsf-impl-2.2.8-02-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Alfonso/workspace/java/lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/wildfly-8.2.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/jboss-jstl-api_1.2_spec-1.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/wildfly-8.2.0.Final/modules/system/layers/base/org/glassfish/javax/el/main/javax.el-3.0.1-b05.jar" sourcepath="D:/programacion/java_utils/javax.el-3.0.1-b05-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
